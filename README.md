@@ -36,4 +36,4 @@ This creates a more relevant experience for both customers and employees. Person
 
 Companies are investing in generative AI because it can strengthen operations, improve service quality, and support long-term digital transformation. Adoption data shows AI is already present in many organizations and continues to expand.
 
-Businesses that build custom AI capabilities into their software can align technology more closely with internal workflows and industry needs. That is why [enterprise AI development]([url](https://tech.us/services/enterprise-ai-services)) is becoming a strategic priority rather than a future experiment.
+Businesses that build custom AI capabilities into their software can align technology more closely with internal workflows and industry needs. That is why [enterprise AI development]((https://tech.us/services/enterprise-ai-services)) is becoming a strategic priority rather than a future experiment.
